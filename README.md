@@ -12,3 +12,11 @@ Imagem do vídeo pesquisado:
 <img src="videos.png" alt="Texto Alternativo">
 Imagem dos vídeos favoritados:
 <img src="favoritos.png" alt="Texto Alternativo">
+
+PS: para usar o projeto, use o comando 'npm i' para instalar todas as dependências.
+Rode também o comando node server.mjs no caminho da pasta server.
+
+
+Exemplo do projeto em funcionamento:
+
+<img src="Novo projeto.gif" alt="Texto Alternativo">
