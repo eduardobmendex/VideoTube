@@ -8,4 +8,7 @@ a página de favoritos.
 
 Exemplo abaixo:
 
+Imagem do vídeo pesquisado:
 <img src="videos.png" alt="Texto Alternativo">
+Imagem dos vídeos favoritados:
+<img src="favoritos.png" alt="Texto Alternativo">
