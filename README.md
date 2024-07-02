@@ -16,6 +16,7 @@ Imagem dos vídeos favoritados:
 PS: para usar o projeto, use o comando 'npm i' para instalar todas as dependências.
 Rode também o comando node server.mjs no caminho da pasta server.
 
+Na pasta 'server' está contido o código server.mjs, onde tem os códigos da aplicação bff em Node.js que busca os vídeos do Youtube.
 
 Exemplo do projeto em funcionamento:
 
